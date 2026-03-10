@@ -1,0 +1,18 @@
+name: Essential Skills
+description: Must-have skills for every AI agent user
+skills:
+  - name: pdf
+    source: anthropics
+    install: ask install anthropics/skills/skills/pdf
+  - name: docx
+    source: anthropics
+    install: ask install anthropics/skills/skills/docx
+  - name: xlsx
+    source: anthropics
+    install: ask install anthropics/skills/skills/xlsx
+  - name: pptx
+    source: anthropics
+    install: ask install anthropics/skills/skills/pptx
+  - name: file-organizer
+    source: composio
+    install: ask install ComposioHQ/awesome-claude-skills/file-organizer

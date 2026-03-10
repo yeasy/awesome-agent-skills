@@ -1,0 +1,27 @@
+name: Developer Pack
+description: Essential skills for software developers
+skills:
+  - name: web-artifacts-builder
+    source: anthropics
+    install: ask install anthropics/skills/skills/web-artifacts-builder
+  - name: mcp-builder
+    source: anthropics
+    install: ask install anthropics/skills/skills/mcp-builder
+  - name: skill-creator
+    source: anthropics
+    install: ask install anthropics/skills/skills/skill-creator
+  - name: deploy-to-vercel
+    source: vercel
+    install: ask install vercel-labs/agent-skills/skills/deploy-to-vercel
+  - name: react-best-practices
+    source: vercel
+    install: ask install vercel-labs/agent-skills/skills/react-best-practices
+  - name: webapp-testing
+    source: anthropics
+    install: ask install anthropics/skills/skills/webapp-testing
+  - name: changelog-generator
+    source: composio
+    install: ask install ComposioHQ/awesome-claude-skills/changelog-generator
+  - name: frontend-design
+    source: anthropics
+    install: ask install anthropics/skills/skills/frontend-design

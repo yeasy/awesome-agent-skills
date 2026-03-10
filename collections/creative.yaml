@@ -1,0 +1,21 @@
+name: Creative Pack
+description: Skills for design, art, and content creation
+skills:
+  - name: canvas-design
+    source: anthropics
+    install: ask install anthropics/skills/skills/canvas-design
+  - name: algorithmic-art
+    source: anthropics
+    install: ask install anthropics/skills/skills/algorithmic-art
+  - name: theme-factory
+    source: anthropics
+    install: ask install anthropics/skills/skills/theme-factory
+  - name: brand-guidelines
+    source: anthropics
+    install: ask install anthropics/skills/skills/brand-guidelines
+  - name: slack-gif-creator
+    source: anthropics
+    install: ask install anthropics/skills/skills/slack-gif-creator
+  - name: content-research-writer
+    source: composio
+    install: ask install ComposioHQ/awesome-claude-skills/content-research-writer
