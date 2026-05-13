@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "updated_at": "2026-03-09T00:00:00Z",
+  "updated_at": "2026-05-13T00:00:00Z",
   "skills": [
     {
       "name": "pdf",
@@ -320,6 +320,17 @@
       "stars": 0,
       "featured": false,
       "install_cmd": "ask install ComposioHQ/awesome-claude-skills/video-downloader"
+    },
+    {
+      "name": "hermes-tweet",
+      "source": "xquik",
+      "url": "https://github.com/Xquik-dev/hermes-tweet/tree/master/registries/ask/hermes-tweet",
+      "description": "Search Twitter/X, read replies, export followers, and gate post/reply/DM actions",
+      "category": "media",
+      "tags": ["twitter", "x-twitter", "social-media", "automation", "hermes-agent", "xquik"],
+      "stars": 7,
+      "featured": false,
+      "install_cmd": "ask install Xquik-dev/hermes-tweet/registries/ask/hermes-tweet"
     },
     {
       "name": "image-enhancer",
