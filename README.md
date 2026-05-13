@@ -85,6 +85,7 @@ Pre-configured packs for common use cases:
 | Skill | Source | Description | Install |
 |-------|--------|-------------|---------|
 | video-downloader | composio | Download videos from various platforms | `ask install ComposioHQ/awesome-claude-skills/video-downloader` |
+| hermes-tweet | xquik | Search Twitter/X, read replies, export followers, and gate post/reply/DM actions | `ask install Xquik-dev/hermes-tweet/registries/ask/hermes-tweet` |
 | image-enhancer | composio | Enhance and process images | `ask install ComposioHQ/awesome-claude-skills/image-enhancer` |
 
 ## Contributing
