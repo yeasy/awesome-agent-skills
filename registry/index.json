@@ -331,6 +331,17 @@
       "stars": 0,
       "featured": false,
       "install_cmd": "ask install ComposioHQ/awesome-claude-skills/image-enhancer"
+    },
+    {
+      "name": "runapi-cli",
+      "source": "runapi-ai",
+      "url": "https://github.com/runapi-ai/cli-skill",
+      "description": "Run AI image, video, music/audio, and model API jobs from CLI-capable agents",
+      "category": "development",
+      "tags": ["api", "cli", "media", "models"],
+      "stars": 0,
+      "featured": false,
+      "install_cmd": "ask install runapi-ai/cli-skill"
     }
   ]
 }
