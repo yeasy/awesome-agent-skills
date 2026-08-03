@@ -331,6 +331,17 @@
       "stars": 0,
       "featured": false,
       "install_cmd": "ask install ComposioHQ/awesome-claude-skills/image-enhancer"
+    },
+    {
+      "name": "suede-code",
+      "source": "JasonColapietro",
+      "url": "https://github.com/JasonColapietro/suede-creator-skills/tree/main/skills/suede-code",
+      "description": "Review code and return evidence-backed findings with an A-F ship grade",
+      "category": "development",
+      "tags": ["code-review", "security", "quality", "release"],
+      "stars": 166,
+      "featured": false,
+      "install_cmd": "ask install JasonColapietro/suede-creator-skills/skills/suede-code"
     }
   ]
 }
