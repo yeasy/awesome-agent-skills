@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "updated_at": "2026-03-09T00:00:00Z",
+  "updated_at": "2026-11-22T00:00:00Z",
   "skills": [
     {
       "name": "pdf",
@@ -8,7 +8,12 @@
       "url": "https://github.com/anthropics/skills/tree/main/skills/pdf",
       "description": "Read, create, and manipulate PDF documents",
       "category": "productivity",
-      "tags": ["pdf", "document", "extract", "merge"],
+      "tags": [
+        "pdf",
+        "document",
+        "extract",
+        "merge"
+      ],
       "stars": 0,
       "featured": true,
       "install_cmd": "ask install anthropics/skills/skills/pdf"
@@ -19,7 +24,12 @@
       "url": "https://github.com/anthropics/skills/tree/main/skills/docx",
       "description": "Create, read, and edit Word documents",
       "category": "productivity",
-      "tags": ["word", "document", "docx", "office"],
+      "tags": [
+        "word",
+        "document",
+        "docx",
+        "office"
+      ],
       "stars": 0,
       "featured": true,
       "install_cmd": "ask install anthropics/skills/skills/docx"
@@ -30,7 +40,12 @@
       "url": "https://github.com/anthropics/skills/tree/main/skills/xlsx",
       "description": "Create and manipulate Excel spreadsheets",
       "category": "productivity",
-      "tags": ["excel", "spreadsheet", "xlsx", "data"],
+      "tags": [
+        "excel",
+        "spreadsheet",
+        "xlsx",
+        "data"
+      ],
       "stars": 0,
       "featured": true,
       "install_cmd": "ask install anthropics/skills/skills/xlsx"
@@ -41,7 +56,12 @@
       "url": "https://github.com/anthropics/skills/tree/main/skills/pptx",
       "description": "Create and edit PowerPoint presentations",
       "category": "productivity",
-      "tags": ["powerpoint", "presentation", "slides", "pptx"],
+      "tags": [
+        "powerpoint",
+        "presentation",
+        "slides",
+        "pptx"
+      ],
       "stars": 0,
       "featured": true,
       "install_cmd": "ask install anthropics/skills/skills/pptx"
@@ -52,7 +72,13 @@
       "url": "https://github.com/anthropics/skills/tree/main/skills/web-artifacts-builder",
       "description": "Build elaborate HTML artifacts with React and Tailwind CSS",
       "category": "development",
-      "tags": ["react", "html", "web", "frontend", "artifacts"],
+      "tags": [
+        "react",
+        "html",
+        "web",
+        "frontend",
+        "artifacts"
+      ],
       "stars": 0,
       "featured": true,
       "install_cmd": "ask install anthropics/skills/skills/web-artifacts-builder"
@@ -63,7 +89,12 @@
       "url": "https://github.com/anthropics/skills/tree/main/skills/canvas-design",
       "description": "Create beautiful visual designs and posters",
       "category": "creative",
-      "tags": ["design", "art", "poster", "visual"],
+      "tags": [
+        "design",
+        "art",
+        "poster",
+        "visual"
+      ],
       "stars": 0,
       "featured": false,
       "install_cmd": "ask install anthropics/skills/skills/canvas-design"
@@ -74,7 +105,12 @@
       "url": "https://github.com/anthropics/skills/tree/main/skills/algorithmic-art",
       "description": "Create generative art with p5.js and seeded randomness",
       "category": "creative",
-      "tags": ["art", "generative", "p5js", "creative"],
+      "tags": [
+        "art",
+        "generative",
+        "p5js",
+        "creative"
+      ],
       "stars": 0,
       "featured": false,
       "install_cmd": "ask install anthropics/skills/skills/algorithmic-art"
@@ -85,7 +121,12 @@
       "url": "https://github.com/anthropics/skills/tree/main/skills/mcp-builder",
       "description": "Build Model Context Protocol servers and tools",
       "category": "development",
-      "tags": ["mcp", "protocol", "server", "tools"],
+      "tags": [
+        "mcp",
+        "protocol",
+        "server",
+        "tools"
+      ],
       "stars": 0,
       "featured": true,
       "install_cmd": "ask install anthropics/skills/skills/mcp-builder"
@@ -96,7 +137,12 @@
       "url": "https://github.com/anthropics/skills/tree/main/skills/skill-creator",
       "description": "Create, modify, and test agent skills",
       "category": "development",
-      "tags": ["skill", "create", "develop", "test"],
+      "tags": [
+        "skill",
+        "create",
+        "develop",
+        "test"
+      ],
       "stars": 0,
       "featured": true,
       "install_cmd": "ask install anthropics/skills/skills/skill-creator"
@@ -107,7 +153,12 @@
       "url": "https://github.com/anthropics/skills/tree/main/skills/doc-coauthoring",
       "description": "Co-author documentation through structured workflows",
       "category": "productivity",
-      "tags": ["docs", "writing", "collaboration", "documentation"],
+      "tags": [
+        "docs",
+        "writing",
+        "collaboration",
+        "documentation"
+      ],
       "stars": 0,
       "featured": false,
       "install_cmd": "ask install anthropics/skills/skills/doc-coauthoring"
@@ -118,7 +169,12 @@
       "url": "https://github.com/anthropics/skills/tree/main/skills/theme-factory",
       "description": "Style artifacts with pre-set or custom themes",
       "category": "creative",
-      "tags": ["theme", "style", "design", "css"],
+      "tags": [
+        "theme",
+        "style",
+        "design",
+        "css"
+      ],
       "stars": 0,
       "featured": false,
       "install_cmd": "ask install anthropics/skills/skills/theme-factory"
@@ -129,7 +185,12 @@
       "url": "https://github.com/anthropics/skills/tree/main/skills/claude-api",
       "description": "Interact with the Claude API programmatically",
       "category": "development",
-      "tags": ["api", "claude", "anthropic", "llm"],
+      "tags": [
+        "api",
+        "claude",
+        "anthropic",
+        "llm"
+      ],
       "stars": 0,
       "featured": false,
       "install_cmd": "ask install anthropics/skills/skills/claude-api"
@@ -140,7 +201,12 @@
       "url": "https://github.com/anthropics/skills/tree/main/skills/frontend-design",
       "description": "Design and build frontend interfaces",
       "category": "development",
-      "tags": ["frontend", "ui", "design", "web"],
+      "tags": [
+        "frontend",
+        "ui",
+        "design",
+        "web"
+      ],
       "stars": 0,
       "featured": false,
       "install_cmd": "ask install anthropics/skills/skills/frontend-design"
@@ -151,7 +217,12 @@
       "url": "https://github.com/anthropics/skills/tree/main/skills/brand-guidelines",
       "description": "Apply brand guidelines to content and designs",
       "category": "creative",
-      "tags": ["brand", "guidelines", "style", "identity"],
+      "tags": [
+        "brand",
+        "guidelines",
+        "style",
+        "identity"
+      ],
       "stars": 0,
       "featured": false,
       "install_cmd": "ask install anthropics/skills/skills/brand-guidelines"
@@ -162,7 +233,12 @@
       "url": "https://github.com/anthropics/skills/tree/main/skills/internal-comms",
       "description": "Draft internal communications and announcements",
       "category": "productivity",
-      "tags": ["communications", "email", "announcement", "writing"],
+      "tags": [
+        "communications",
+        "email",
+        "announcement",
+        "writing"
+      ],
       "stars": 0,
       "featured": false,
       "install_cmd": "ask install anthropics/skills/skills/internal-comms"
@@ -173,7 +249,12 @@
       "url": "https://github.com/anthropics/skills/tree/main/skills/slack-gif-creator",
       "description": "Create animated GIFs for Slack",
       "category": "creative",
-      "tags": ["gif", "slack", "animation", "fun"],
+      "tags": [
+        "gif",
+        "slack",
+        "animation",
+        "fun"
+      ],
       "stars": 0,
       "featured": false,
       "install_cmd": "ask install anthropics/skills/skills/slack-gif-creator"
@@ -184,7 +265,12 @@
       "url": "https://github.com/anthropics/skills/tree/main/skills/webapp-testing",
       "description": "Test web applications with automated workflows",
       "category": "development",
-      "tags": ["testing", "qa", "web", "automation"],
+      "tags": [
+        "testing",
+        "qa",
+        "web",
+        "automation"
+      ],
       "stars": 0,
       "featured": false,
       "install_cmd": "ask install anthropics/skills/skills/webapp-testing"
@@ -195,7 +281,12 @@
       "url": "https://github.com/vercel-labs/agent-skills/tree/main/skills/deploy-to-vercel",
       "description": "Deploy applications to Vercel platform",
       "category": "development",
-      "tags": ["deploy", "vercel", "hosting", "ci-cd"],
+      "tags": [
+        "deploy",
+        "vercel",
+        "hosting",
+        "ci-cd"
+      ],
       "stars": 0,
       "featured": true,
       "install_cmd": "ask install vercel-labs/agent-skills/skills/deploy-to-vercel"
@@ -206,7 +297,12 @@
       "url": "https://github.com/vercel-labs/agent-skills/tree/main/skills/react-best-practices",
       "description": "Apply React best practices and patterns",
       "category": "development",
-      "tags": ["react", "best-practices", "frontend", "patterns"],
+      "tags": [
+        "react",
+        "best-practices",
+        "frontend",
+        "patterns"
+      ],
       "stars": 0,
       "featured": false,
       "install_cmd": "ask install vercel-labs/agent-skills/skills/react-best-practices"
@@ -217,7 +313,12 @@
       "url": "https://github.com/vercel-labs/agent-skills/tree/main/skills/web-design-guidelines",
       "description": "Follow web design guidelines and best practices",
       "category": "development",
-      "tags": ["design", "web", "guidelines", "ui-ux"],
+      "tags": [
+        "design",
+        "web",
+        "guidelines",
+        "ui-ux"
+      ],
       "stars": 0,
       "featured": false,
       "install_cmd": "ask install vercel-labs/agent-skills/skills/web-design-guidelines"
@@ -228,7 +329,12 @@
       "url": "https://github.com/vercel-labs/agent-skills/tree/main/skills/react-native-skills",
       "description": "Build React Native mobile applications",
       "category": "development",
-      "tags": ["react-native", "mobile", "ios", "android"],
+      "tags": [
+        "react-native",
+        "mobile",
+        "ios",
+        "android"
+      ],
       "stars": 0,
       "featured": false,
       "install_cmd": "ask install vercel-labs/agent-skills/skills/react-native-skills"
@@ -239,7 +345,12 @@
       "url": "https://github.com/ComposioHQ/awesome-claude-skills/tree/main/file-organizer",
       "description": "Organize files by type, date, or custom rules",
       "category": "productivity",
-      "tags": ["files", "organize", "cleanup", "automation"],
+      "tags": [
+        "files",
+        "organize",
+        "cleanup",
+        "automation"
+      ],
       "stars": 0,
       "featured": true,
       "install_cmd": "ask install ComposioHQ/awesome-claude-skills/file-organizer"
@@ -250,7 +361,12 @@
       "url": "https://github.com/ComposioHQ/awesome-claude-skills/tree/main/content-research-writer",
       "description": "Research topics and write content",
       "category": "productivity",
-      "tags": ["research", "writing", "content", "blog"],
+      "tags": [
+        "research",
+        "writing",
+        "content",
+        "blog"
+      ],
       "stars": 0,
       "featured": false,
       "install_cmd": "ask install ComposioHQ/awesome-claude-skills/content-research-writer"
@@ -261,7 +377,12 @@
       "url": "https://github.com/ComposioHQ/awesome-claude-skills/tree/main/lead-research-assistant",
       "description": "Research and qualify sales leads",
       "category": "business",
-      "tags": ["sales", "leads", "research", "crm"],
+      "tags": [
+        "sales",
+        "leads",
+        "research",
+        "crm"
+      ],
       "stars": 0,
       "featured": false,
       "install_cmd": "ask install ComposioHQ/awesome-claude-skills/lead-research-assistant"
@@ -272,7 +393,12 @@
       "url": "https://github.com/ComposioHQ/awesome-claude-skills/tree/main/invoice-organizer",
       "description": "Organize and manage invoices",
       "category": "business",
-      "tags": ["invoice", "finance", "organize", "accounting"],
+      "tags": [
+        "invoice",
+        "finance",
+        "organize",
+        "accounting"
+      ],
       "stars": 0,
       "featured": false,
       "install_cmd": "ask install ComposioHQ/awesome-claude-skills/invoice-organizer"
@@ -283,7 +409,12 @@
       "url": "https://github.com/ComposioHQ/awesome-claude-skills/tree/main/changelog-generator",
       "description": "Generate changelogs from git history",
       "category": "development",
-      "tags": ["changelog", "git", "release", "docs"],
+      "tags": [
+        "changelog",
+        "git",
+        "release",
+        "docs"
+      ],
       "stars": 0,
       "featured": false,
       "install_cmd": "ask install ComposioHQ/awesome-claude-skills/changelog-generator"
@@ -294,7 +425,12 @@
       "url": "https://github.com/ComposioHQ/awesome-claude-skills/tree/main/tailored-resume-generator",
       "description": "Generate tailored resumes for job applications",
       "category": "productivity",
-      "tags": ["resume", "cv", "job", "career"],
+      "tags": [
+        "resume",
+        "cv",
+        "job",
+        "career"
+      ],
       "stars": 0,
       "featured": false,
       "install_cmd": "ask install ComposioHQ/awesome-claude-skills/tailored-resume-generator"
@@ -305,7 +441,12 @@
       "url": "https://github.com/ComposioHQ/awesome-claude-skills/tree/main/meeting-insights-analyzer",
       "description": "Analyze meeting transcripts and extract insights",
       "category": "productivity",
-      "tags": ["meeting", "transcript", "insights", "analysis"],
+      "tags": [
+        "meeting",
+        "transcript",
+        "insights",
+        "analysis"
+      ],
       "stars": 0,
       "featured": false,
       "install_cmd": "ask install ComposioHQ/awesome-claude-skills/meeting-insights-analyzer"
@@ -316,7 +457,12 @@
       "url": "https://github.com/ComposioHQ/awesome-claude-skills/tree/main/video-downloader",
       "description": "Download videos from various platforms",
       "category": "media",
-      "tags": ["video", "download", "media", "youtube"],
+      "tags": [
+        "video",
+        "download",
+        "media",
+        "youtube"
+      ],
       "stars": 0,
       "featured": false,
       "install_cmd": "ask install ComposioHQ/awesome-claude-skills/video-downloader"
@@ -327,10 +473,345 @@
       "url": "https://github.com/ComposioHQ/awesome-claude-skills/tree/main/image-enhancer",
       "description": "Enhance and process images",
       "category": "media",
-      "tags": ["image", "enhance", "photo", "processing"],
+      "tags": [
+        "image",
+        "enhance",
+        "photo",
+        "processing"
+      ],
       "stars": 0,
       "featured": false,
       "install_cmd": "ask install ComposioHQ/awesome-claude-skills/image-enhancer"
+    },
+    {
+      "name": "govisit-get-category-overview",
+      "source": "inhotel-io",
+      "url": "https://github.com/inhotel-io/govisit-toolkit/tree/main/skills/govisit-get-category-overview",
+      "description": "Read a destination category page overview from GoVisit.",
+      "category": "business",
+      "tags": [
+        "travel",
+        "category",
+        "overview"
+      ],
+      "stars": 9,
+      "featured": false,
+      "install_cmd": "ask install inhotel-io/govisit-toolkit/skills/govisit-get-category-overview"
+    },
+    {
+      "name": "govisit-get-category-section",
+      "source": "inhotel-io",
+      "url": "https://github.com/inhotel-io/govisit-toolkit/tree/main/skills/govisit-get-category-section",
+      "description": "Read one published section of a GoVisit destination category page.",
+      "category": "business",
+      "tags": [
+        "travel",
+        "category",
+        "content"
+      ],
+      "stars": 9,
+      "featured": false,
+      "install_cmd": "ask install inhotel-io/govisit-toolkit/skills/govisit-get-category-section"
+    },
+    {
+      "name": "govisit-get-collection-overview",
+      "source": "inhotel-io",
+      "url": "https://github.com/inhotel-io/govisit-toolkit/tree/main/skills/govisit-get-collection-overview",
+      "description": "Read a curated GoVisit destination collection overview.",
+      "category": "business",
+      "tags": [
+        "travel",
+        "collection",
+        "overview"
+      ],
+      "stars": 9,
+      "featured": false,
+      "install_cmd": "ask install inhotel-io/govisit-toolkit/skills/govisit-get-collection-overview"
+    },
+    {
+      "name": "govisit-get-collection-section",
+      "source": "inhotel-io",
+      "url": "https://github.com/inhotel-io/govisit-toolkit/tree/main/skills/govisit-get-collection-section",
+      "description": "Read one published section of a GoVisit destination collection.",
+      "category": "business",
+      "tags": [
+        "travel",
+        "collection",
+        "content"
+      ],
+      "stars": 9,
+      "featured": false,
+      "install_cmd": "ask install inhotel-io/govisit-toolkit/skills/govisit-get-collection-section"
+    },
+    {
+      "name": "govisit-get-destination-overview",
+      "source": "inhotel-io",
+      "url": "https://github.com/inhotel-io/govisit-toolkit/tree/main/skills/govisit-get-destination-overview",
+      "description": "Read published overview fields for a GoVisit destination.",
+      "category": "business",
+      "tags": [
+        "travel",
+        "destination",
+        "overview"
+      ],
+      "stars": 9,
+      "featured": false,
+      "install_cmd": "ask install inhotel-io/govisit-toolkit/skills/govisit-get-destination-overview"
+    },
+    {
+      "name": "govisit-get-destination-section",
+      "source": "inhotel-io",
+      "url": "https://github.com/inhotel-io/govisit-toolkit/tree/main/skills/govisit-get-destination-section",
+      "description": "Read one published section for a GoVisit destination.",
+      "category": "business",
+      "tags": [
+        "travel",
+        "destination",
+        "content"
+      ],
+      "stars": 9,
+      "featured": false,
+      "install_cmd": "ask install inhotel-io/govisit-toolkit/skills/govisit-get-destination-section"
+    },
+    {
+      "name": "govisit-get-documentation-page",
+      "source": "inhotel-io",
+      "url": "https://github.com/inhotel-io/govisit-toolkit/tree/main/skills/govisit-get-documentation-page",
+      "description": "Retrieve structured content from a published GoVisit documentation page.",
+      "category": "business",
+      "tags": [
+        "travel",
+        "documentation",
+        "content"
+      ],
+      "stars": 9,
+      "featured": false,
+      "install_cmd": "ask install inhotel-io/govisit-toolkit/skills/govisit-get-documentation-page"
+    },
+    {
+      "name": "govisit-get-page-faq",
+      "source": "inhotel-io",
+      "url": "https://github.com/inhotel-io/govisit-toolkit/tree/main/skills/govisit-get-page-faq",
+      "description": "Read published FAQs from a GoVisit article or documentation page.",
+      "category": "business",
+      "tags": [
+        "travel",
+        "faq",
+        "content"
+      ],
+      "stars": 9,
+      "featured": false,
+      "install_cmd": "ask install inhotel-io/govisit-toolkit/skills/govisit-get-page-faq"
+    },
+    {
+      "name": "govisit-get-place-overview",
+      "source": "inhotel-io",
+      "url": "https://github.com/inhotel-io/govisit-toolkit/tree/main/skills/govisit-get-place-overview",
+      "description": "Read published overview fields for a GoVisit place.",
+      "category": "business",
+      "tags": [
+        "travel",
+        "place",
+        "overview"
+      ],
+      "stars": 9,
+      "featured": false,
+      "install_cmd": "ask install inhotel-io/govisit-toolkit/skills/govisit-get-place-overview"
+    },
+    {
+      "name": "govisit-get-place-section",
+      "source": "inhotel-io",
+      "url": "https://github.com/inhotel-io/govisit-toolkit/tree/main/skills/govisit-get-place-section",
+      "description": "Read one published section for a GoVisit place.",
+      "category": "business",
+      "tags": [
+        "travel",
+        "place",
+        "content"
+      ],
+      "stars": 9,
+      "featured": false,
+      "install_cmd": "ask install inhotel-io/govisit-toolkit/skills/govisit-get-place-section"
+    },
+    {
+      "name": "govisit-get-place-visit-facts",
+      "source": "inhotel-io",
+      "url": "https://github.com/inhotel-io/govisit-toolkit/tree/main/skills/govisit-get-place-visit-facts",
+      "description": "Read normalized visit facts for a GoVisit place.",
+      "category": "business",
+      "tags": [
+        "travel",
+        "place",
+        "facts"
+      ],
+      "stars": 9,
+      "featured": false,
+      "install_cmd": "ask install inhotel-io/govisit-toolkit/skills/govisit-get-place-visit-facts"
+    },
+    {
+      "name": "govisit-get-statistics",
+      "source": "inhotel-io",
+      "url": "https://github.com/inhotel-io/govisit-toolkit/tree/main/skills/govisit-get-statistics",
+      "description": "Retrieve GoVisit catalog coverage counts with dates and provenance.",
+      "category": "business",
+      "tags": [
+        "travel",
+        "statistics",
+        "data"
+      ],
+      "stars": 9,
+      "featured": false,
+      "install_cmd": "ask install inhotel-io/govisit-toolkit/skills/govisit-get-statistics"
+    },
+    {
+      "name": "govisit-list-category-places",
+      "source": "inhotel-io",
+      "url": "https://github.com/inhotel-io/govisit-toolkit/tree/main/skills/govisit-list-category-places",
+      "description": "Filter the published places on a GoVisit destination category page.",
+      "category": "business",
+      "tags": [
+        "travel",
+        "places",
+        "category"
+      ],
+      "stars": 9,
+      "featured": false,
+      "install_cmd": "ask install inhotel-io/govisit-toolkit/skills/govisit-list-category-places"
+    },
+    {
+      "name": "govisit-list-collection-places",
+      "source": "inhotel-io",
+      "url": "https://github.com/inhotel-io/govisit-toolkit/tree/main/skills/govisit-list-collection-places",
+      "description": "Filter the published places in a GoVisit destination collection.",
+      "category": "business",
+      "tags": [
+        "travel",
+        "places",
+        "collection"
+      ],
+      "stars": 9,
+      "featured": false,
+      "install_cmd": "ask install inhotel-io/govisit-toolkit/skills/govisit-list-collection-places"
+    },
+    {
+      "name": "govisit-list-destination-activities",
+      "source": "inhotel-io",
+      "url": "https://github.com/inhotel-io/govisit-toolkit/tree/main/skills/govisit-list-destination-activities",
+      "description": "Read published activities for a GoVisit destination.",
+      "category": "business",
+      "tags": [
+        "travel",
+        "activities",
+        "destination"
+      ],
+      "stars": 9,
+      "featured": false,
+      "install_cmd": "ask install inhotel-io/govisit-toolkit/skills/govisit-list-destination-activities"
+    },
+    {
+      "name": "govisit-list-destination-categories",
+      "source": "inhotel-io",
+      "url": "https://github.com/inhotel-io/govisit-toolkit/tree/main/skills/govisit-list-destination-categories",
+      "description": "Read published category links for a GoVisit destination.",
+      "category": "business",
+      "tags": [
+        "travel",
+        "categories",
+        "destination"
+      ],
+      "stars": 9,
+      "featured": false,
+      "install_cmd": "ask install inhotel-io/govisit-toolkit/skills/govisit-list-destination-categories"
+    },
+    {
+      "name": "govisit-list-destination-highlights",
+      "source": "inhotel-io",
+      "url": "https://github.com/inhotel-io/govisit-toolkit/tree/main/skills/govisit-list-destination-highlights",
+      "description": "Read published highlights for a GoVisit destination.",
+      "category": "business",
+      "tags": [
+        "travel",
+        "highlights",
+        "destination"
+      ],
+      "stars": 9,
+      "featured": false,
+      "install_cmd": "ask install inhotel-io/govisit-toolkit/skills/govisit-list-destination-highlights"
+    },
+    {
+      "name": "govisit-list-destination-places",
+      "source": "inhotel-io",
+      "url": "https://github.com/inhotel-io/govisit-toolkit/tree/main/skills/govisit-list-destination-places",
+      "description": "Filter places shown on a GoVisit destination page.",
+      "category": "business",
+      "tags": [
+        "travel",
+        "places",
+        "destination"
+      ],
+      "stars": 9,
+      "featured": false,
+      "install_cmd": "ask install inhotel-io/govisit-toolkit/skills/govisit-list-destination-places"
+    },
+    {
+      "name": "govisit-list-related-places",
+      "source": "inhotel-io",
+      "url": "https://github.com/inhotel-io/govisit-toolkit/tree/main/skills/govisit-list-related-places",
+      "description": "Find related GoVisit places using published page fields.",
+      "category": "business",
+      "tags": [
+        "travel",
+        "places",
+        "discovery"
+      ],
+      "stars": 9,
+      "featured": false,
+      "install_cmd": "ask install inhotel-io/govisit-toolkit/skills/govisit-list-related-places"
+    },
+    {
+      "name": "govisit-search-destinations",
+      "source": "inhotel-io",
+      "url": "https://github.com/inhotel-io/govisit-toolkit/tree/main/skills/govisit-search-destinations",
+      "description": "Search GoVisit destinations by name or traveler intent.",
+      "category": "business",
+      "tags": [
+        "travel",
+        "search",
+        "destination"
+      ],
+      "stars": 9,
+      "featured": false,
+      "install_cmd": "ask install inhotel-io/govisit-toolkit/skills/govisit-search-destinations"
+    },
+    {
+      "name": "govisit-search-documentation",
+      "source": "inhotel-io",
+      "url": "https://github.com/inhotel-io/govisit-toolkit/tree/main/skills/govisit-search-documentation",
+      "description": "Search published GoVisit developer documentation links.",
+      "category": "business",
+      "tags": [
+        "travel",
+        "search",
+        "documentation"
+      ],
+      "stars": 9,
+      "featured": false,
+      "install_cmd": "ask install inhotel-io/govisit-toolkit/skills/govisit-search-documentation"
+    },
+    {
+      "name": "govisit-search-places",
+      "source": "inhotel-io",
+      "url": "https://github.com/inhotel-io/govisit-toolkit/tree/main/skills/govisit-search-places",
+      "description": "Search GoVisit places by name, intent, destination, or proximity.",
+      "category": "business",
+      "tags": [
+        "travel",
+        "search",
+        "places"
+      ],
+      "stars": 9,
+      "featured": false,
+      "install_cmd": "ask install inhotel-io/govisit-toolkit/skills/govisit-search-places"
     }
   ]
 }
