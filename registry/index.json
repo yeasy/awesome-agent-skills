@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "updated_at": "2026-03-09T00:00:00Z",
+  "updated_at": "2026-11-24T00:00:00Z",
   "skills": [
     {
       "name": "pdf",
@@ -331,6 +331,28 @@
       "stars": 0,
       "featured": false,
       "install_cmd": "ask install ComposioHQ/awesome-claude-skills/image-enhancer"
+    },
+    {
+      "name": "govisit-search-places",
+      "source": "inhotel-io",
+      "url": "https://github.com/inhotel-io/govisit-toolkit/tree/main/skills/govisit-search-places",
+      "description": "Search GoVisit places by name or traveler intent, optionally constrained by country, destination, or proximity.",
+      "category": "business",
+      "tags": ["travel", "search", "places"],
+      "stars": 0,
+      "featured": false,
+      "install_cmd": "ask install inhotel-io/govisit-toolkit/skills/govisit-search-places"
+    },
+    {
+      "name": "govisit-get-documentation-page",
+      "source": "inhotel-io",
+      "url": "https://github.com/inhotel-io/govisit-toolkit/tree/main/skills/govisit-get-documentation-page",
+      "description": "Read bounded structured content from a published GoVisit article or documentation page.",
+      "category": "business",
+      "tags": ["travel", "documentation", "content"],
+      "stars": 0,
+      "featured": false,
+      "install_cmd": "ask install inhotel-io/govisit-toolkit/skills/govisit-get-documentation-page"
     }
   ]
 }
