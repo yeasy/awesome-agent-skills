@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "updated_at": "2026-03-09T00:00:00Z",
+  "updated_at": "2026-11-25T00:00:00Z",
   "skills": [
     {
       "name": "pdf",
@@ -331,6 +331,28 @@
       "stars": 0,
       "featured": false,
       "install_cmd": "ask install ComposioHQ/awesome-claude-skills/image-enhancer"
+    },
+    {
+      "name": "govisit-search-places",
+      "source": "inhotel-io",
+      "url": "https://github.com/inhotel-io/govisit-toolkit/tree/main/skills/govisit-search-places",
+      "description": "Search GoVisit places by name or traveler intent, with optional country, destination, or proximity filters.",
+      "category": "business",
+      "tags": ["travel", "search", "places"],
+      "stars": 0,
+      "featured": false,
+      "install_cmd": "ask install inhotel-io/govisit-toolkit/skills/govisit-search-places"
+    },
+    {
+      "name": "govisit-search-destinations",
+      "source": "inhotel-io",
+      "url": "https://github.com/inhotel-io/govisit-toolkit/tree/main/skills/govisit-search-destinations",
+      "description": "Search GoVisit destinations by name or traveler intent and return canonical destination codes and URLs.",
+      "category": "business",
+      "tags": ["travel", "search", "destinations"],
+      "stars": 0,
+      "featured": false,
+      "install_cmd": "ask install inhotel-io/govisit-toolkit/skills/govisit-search-destinations"
     }
   ]
 }
